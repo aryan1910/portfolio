@@ -1,46 +1,84 @@
-# Data Scientist
+# 👋 Aryan Songira
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Hi! I’m Aryan — a backend engineer passionate about building scalable systems, designing performant services, and solving complex infrastructure problems using Golang.
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Actively contributed to high level and low level design of Identity Threat Detection and Response features, and leveraged concurrency patterns, ensuring clean code and delivering robust, scalable, and efficient architectures.
-- Contributed to the WebSocket module in Go, replacing the previous primitive C++ implementation, to support millions of endpoints, reducing the number of containers to 1/4th, leveraging concurrency, heavily contributing to low-level design, and improving routing algorithm performance by 47%.
-- Designed and developed a microservice to protect users against compromised credentials by utilizing  appropriate design patterns to ensure concurrency and scalability. It has the capability to detect breaches for 100k active directory users in a single scan.
-- Explored rate limiting algorithms and architectures, and collaborated to create a service that throttles bursts of incoming events from endpoints and other sources exceeding the threshold, ensuring smooth traffic management and preventing system overload.
-- Built IdP(Identity Provider) Connector service that triggers realtime push notifications for self-approval upon the execution of privileged commands and temporary access denial based on risk score, leveraging the robust access control capabilities of Azure, PingIdentity and Duo identity providers.
-- Developed IoT and SCADA decoy containers in a Linux environment to deceive attackers, utilizing them as honeypots for enhanced deception-based security.
-- Managed and automated Software Composition Analysis (SCA) and Static Application Security Testing (SAST), enhancing efficiency and ensuring security.
-- Implemented opentelemetry metrics across Go, Python and C++ services in a distributed high traffic environment which helped in early detection of system anomalies. Additionally, created Grafana dashboards and alerts for realtime monitoring..
-- \textbf{TechStack :} Go, Python, C++, AWS
-    
+- 📍 Currently @ **Arctic Wolf Networks**
+- 🛡️ Previously @ **SentinelOne**, working on Identity Threat Detection & Response, scalable microservices, and system observability.
+- 🛠️ Focused on high-performance backend systems, distributed architectures, and cloud-native engineering.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Built GraphQL and REST APIs to support querying, managing, and tracking the lifecycle of risks — defined as asset-
-vulnerability correlations — across the platform.
-- Implemented a high-performance CSV export feature to stream hundreds of thousands of risks and vulnerabilities via
-HTTP response streaming; generated signed URLs for secure, time-limited access, and enforced per-user rate limiting
-to control export frequency.
-- Improved API performance by migrating from offset-based to cursor-based SQL pagination; introduced transactional
-queries to ensure data consistency.
-- TechStack : Go, PostgreSQL, Kubernetes
+---
 
-## Education
-**Institute of Engineering and Technology, DAVV Indore, India**  
-*Bachelor of Engineering in Computer Engineering*  
-**CCPA**: 8.0  
-**Duration**: July 2017 – June 2021
+## 💼 Experience
 
-## Skills
-- Languages - Golang, Python, C++, Java, Shell Scripting
-- Tools and Technologies - AWS, Docker, Kubernetes, Git, Kafka, Redis, PostgreSQL, AWS Lambda, Grafana, Vim, OpenAPI
-- Operating System - Linux, Windows, Mac
-Programming Profile
-- Solved more than 1000 problems on different platforms
-- Leetcode Profile URL
-- Codechef Profile URL
+### 🧊 Arctic Wolf Networks (Apr 2025 – Present)  
+**Developer | Go, PostgreSQL, AWS**
 
-## Certifications
-- Data Structures and Algorithms using Python - NPTEL : Achieved Elite Type Certificate and Gold Medal, ranking among the top 1% of the course with a score of 93%.
-- Machine Learning - Stanford Online : Learned the core fundamentals of Machine Learning
-- Programming in C++ - NPTEL : Elite type Certificate (Score: 79%)
+- Built GraphQL and REST APIs to support querying, managing, and tracking the lifecycle of risks (asset-vulnerability correlations).
+- Implemented a high-performance CSV export feature using HTTP response streaming with secure, signed URLs and per-user rate limits.
+- Improved API performance by migrating from offset-based to cursor-based pagination and adding transactional query support.
+
+### 🛡️ SentinelOne (Sep 2021 – Mar 2025)  
+**Software Engineer | Go, Python, C++, AWS**
+
+- Contributed to **Identity Threat Detection and Response** features, leveraging concurrency patterns and clean code practices to build scalable and efficient architectures.
+- Replaced the primitive C++ **WebSocket module** with a Go-based implementation that:
+  - Supported **millions of endpoints**.
+  - Reduced container count by **75%**.
+  - Improved routing algorithm performance by **47%**.
+  - Featured heavy involvement in low-level design.
+- Designed and developed a **microservice** to detect compromised credentials, capable of scanning **100k Active Directory users** per run using concurrency-friendly patterns.
+- Researched and implemented **rate-limiting algorithms** to throttle excessive event bursts from endpoints, improving system stability and preventing overloads.
+- Built an **IdP Connector service** to:
+  - Push real-time self-approval notifications for privileged commands.
+  - Temporarily deny access based on risk scores.
+  - Integrate with Azure, PingIdentity, and Duo for robust access control.
+- Developed **IoT and SCADA decoy containers** (honeypots) in a Linux environment to enhance deception-based security.
+- Automated **SCA (Software Composition Analysis)** and **SAST (Static Application Security Testing)** workflows for enhanced code security.
+- Integrated **OpenTelemetry metrics** across distributed services in Go, Python, and C++, enabling:
+  - Early anomaly detection.
+  - Real-time monitoring via custom Grafana dashboards and alerts.
+
+---
+
+## 🧠 Skills
+
+- **Languages**: Go, Python, C++, Java, Shell
+- **Tools/Tech**: AWS, Docker, Kafka, Redis, PostgreSQL, Git, Grafana, OpenAPI
+- **Concepts**: Distributed Systems, Microservices, Concurrency, Observability, Security Engineering
+- **Operating Systems**: Linux, Windows, macOS
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Engineering**  
+*Institute of Engineering and Technology, DAVV Indore*  
+**CGPA: 8.0 / 10** (2017 – 2021)
+
+---
+
+## 📜 Certifications
+
+- 🥇 Data Structures and Algorithms in Python – NPTEL (Gold Medal, Top 1%, Score: 93%)
+- 📘 Machine Learning – Stanford Online
+- 💻 Programming in C++ – NPTEL (Elite Certificate, Score: 79%)
+
+---
+
+## 🧑‍💻 Programming Profiles
+
+- [GitHub](https://github.com/aryan1910)
+- [Leetcode](https://leetcode.com/u/bryanAryan/)
+- [CodeChef](https://www.codechef.com/users/jvian)
+
+---
+
+## 📫 Contact
+
+- ✉️ aryansongira042@gmail.com  
+- 📞 +91-8871504295  
+- [LinkedIn](https://www.linkedin.com/in/aryan-songira)
+
+---
+
+> ⚡ Currently learning **Rust** and **German 🇩🇪** — exploring low-level systems and international career opportunities.
