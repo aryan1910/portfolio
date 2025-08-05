@@ -4,7 +4,6 @@ Hi! I’m Aryan — a backend engineer passionate about building scalable system
 
 - 📍 Currently @ **Arctic Wolf Networks**
 - 🛡️ Previously @ **SentinelOne**, working on Identity Threat Detection & Response, scalable microservices, and system observability.
-- 🛠️ Focused on high-performance backend systems, distributed architectures, and cloud-native engineering.
 
 ---
 
