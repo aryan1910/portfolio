@@ -37,7 +37,7 @@ Hi! I’m Aryan — a backend engineer passionate about building scalable system
 ## 🧠 Skills
 
 - **Languages**: Go, Python, C++, Java, Shell
-- **Tools/Tech**: AWS, Docker, Kafka, Redis, PostgreSQL, Git, Grafana, OpenAPI
+- **Tools/Tech**: AWS, PostgreSQL, Kubernetes, Kafka, Redis, AWS Lambda, Git, Docker, Opentelemetry, Grafana, Vim, OpenAPI
 - **Concepts**: Distributed Systems, Microservices, Concurrency, Observability, Security Engineering
 - **Operating Systems**: Linux, Windows, macOS
 
