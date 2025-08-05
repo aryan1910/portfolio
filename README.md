@@ -86,4 +86,4 @@ A hands-on repository demonstrating common web application attacks (like SQL inj
 
 ---
 
-> ⚡ Currently learning **Rust** and **German 🇩🇪** — exploring low-level systems and international career opportunities.
+> ⚡ Currently learning **Rust** and **German 🇩🇪**
