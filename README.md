@@ -1,20 +1,15 @@
 # 👋 Aryan Songira
 
-Hi! I’m Aryan — a backend engineer passionate about building scalable systems, designing performant services, and solving complex problems
-
-- 📍 Currently @ **Arctic Wolf Networks**
-- 🛡️ Previously @ **SentinelOne**, working on Identity Threat Detection & Response, scalable microservices, and system observability.
-
----
+Hi! I’m Aryan — a backend engineer passionate about building scalable systems, designing performant services and solving complex problems. Much of my work has focused on engineering secure and scalable solutions in the cybersecurity space.
 
 ## 💼 Experience
 
 ### 🧊 Arctic Wolf Networks (Apr 2025 – Present)  
 **Developer | Go, PostgreSQL, AWS**
 
-- Built GraphQL and REST APIs to support querying, managing, and tracking the lifecycle of risks (asset-vulnerability correlations).
+- Built GraphQL and REST APIs to support querying, managing, and tracking the lifecycle of risks (asset-vulnerability correlations) - poowering millions of records.
 - Implemented a high-performance CSV export feature using HTTP response streaming with secure, signed URLs and per-user rate limits.
-- Improved API performance by migrating from offset-based to cursor-based pagination and adding transactional query support.
+- Improved API performance by migrating from offset-based to cursor-based pagination, enabling concurrent query execution, and introducing transactional queries where strong consistency was required.
 
 ### 🛡️ SentinelOne (Sep 2021 – Mar 2025)  
 **Software Engineer | Go, Python, C++, AWS**
